@@ -4,7 +4,6 @@ This is the R code for Schmid, Volker J.: Voxel based adaptive spatio-temporal m
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/cmR)](https://cran.r-project.org/package=cmR)
-[![Travis build status](https://travis-ci.org/bioimaginggroup/cmr.svg?branch=master)](https://travis-ci.org/github/bioimaginggroup/cmr)
 <!-- badges: end -->
 
 ## Installation

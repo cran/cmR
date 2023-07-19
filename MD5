@@ -1,7 +1,7 @@
-e998f8e3b4fd69ae8b8287d6233dc01e *DESCRIPTION
-e52a199bef64f5a51231518e2ced24b3 *NAMESPACE
-984b30ba9662261adc136049d06da424 *NEWS.md
-98126d5ee267521512d26fc2e4c5b508 *R/bullseye.R
+dbe1156e2c9ca2d7ec2c752b5e6db4d7 *DESCRIPTION
+05fa7008efcf67d5f5fbe9822ca0dc1a *NAMESPACE
+5f0e0f4c650ab726a8a2aa4d47bdd397 *NEWS.md
+bc93ae2204c87e6f993caf23a6fdd4fe *R/bullseye.R
 86ac4c8c6acbab2326f5bc19594c574b *R/cmr.R
 737b16a2f3933dfd3cc0ac7164f46618 *R/cmr_local.R
 000fef4e041ddc1d9f5de32b69b92447 *R/cmr_space.R
@@ -9,12 +9,12 @@ ac29dd53e9807d979a650f446f73023e *R/data.R
 eda71df0f9ab34d2e41c51d80883dfa0 *R/image_mbf.R
 82bd4505ea0f01433734e53e779727c2 *R/pseudobullseye.R
 0a15ced9513457dce8520e2d4b182a5c *R/rmvnormcanon.R
-ea211e4f7d80e02e99f72e87db3de684 *README.md
-42ca81507d16cae342ea9ea43806e077 *build/vignette.rds
+1e94fdedb5a9d8ea585b1eb70b8fa76f *README.md
+1ee06416cca96a42521b079fa90ac1e7 *build/vignette.rds
 e9a220a5f5b47ebb62c093ca44d64500 *data/cmrsim.rda
 d598c08c8d21ef931bdbdf950ee2ba55 *inst/doc/cmr-usage.html
 5e4210a01e55d8a3e7cb7acc11578d38 *inst/doc/cmr-usage.html.asis
-d9425127a9b6be7ac823bfd6bac116eb *man/bullseye.Rd
+16fb7e67d6509cfacb528c5416eaf61c *man/bullseye.Rd
 21806e1388d9870cf7ba354e62eb54e8 *man/cmr.Rd
 999ed4985bf947872450cf4752a9e1d4 *man/cmr.local.Rd
 c6256fecba063182d59cf9994151a4ad *man/cmr.space.Rd
